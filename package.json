@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "geoip-lite": "^1.4.10",
+    "ua-parser-js": "^2.0.6"
   }
 }
